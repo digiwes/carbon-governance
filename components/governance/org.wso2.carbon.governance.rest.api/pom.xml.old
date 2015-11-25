@@ -31,7 +31,7 @@
 
 
     <properties>
-        <jackson.version>1.9.2</jackson.version>
+        <jackson.version>1.8.6</jackson.version>
     </properties>
 
 
